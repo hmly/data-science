@@ -1,0 +1,39 @@
+Modularity:  0.4800025734691051
+-- 10:0 | 12:0 | 13:0 | 14:0 | 14:1 | 15:0 | 15:1 | 16:1 c | 16:1 t | 16:1 undifferentiated | 17:0 | 17:1 | 18:1 t |
+   18:1-11 t (18:1t n-7) | 18:2 CLAs | 18:2 i | 18:2 t not further defined | 18:2 t,t | 18:3 n-3 c,c,c (ALA) |
+   18:3 n-6 c,c,c | 18:4 | 20:0 | 20:1 | 20:2 n-6 c,c | 20:3 n-3 | 20:3 n-6 | 20:3 undifferentiated | 20:4 n-6 |
+   20:4 undifferentiated | 20:5 n-3 (EPA) | 21:5 | 22:0 | 22:1 c | 22:1 t | 22:1 undifferentiated | 22:4 |
+   22:5 n-3 (DPA) | 22:6 n-3 (DHA) | 24:0 | 24:1 c | 4:0 | 6:0 | 8:0 | Beta-sitosterol | Campesterol |
+   Carbohydrate, by difference | Carotene, beta | Cholesterol | Dihydrophylloquinone | Fatty acids, total trans |
+   Fatty acids, total trans-monoenoic | Fatty acids, total trans-polyenoic | Fiber, total dietary | Folic acid |
+   Fructose | Galactose | Glucose (dextrose) | Hydroxyproline | Lactose | Lutein + zeaxanthin | Maltose |
+   Menaquinone-4 | Phytosterols | Retinol | Starch | Stigmasterol | Sucrose | Sugars, total | Tocopherol, beta |
+   Tocopherol, delta | Tocopherol, gamma | Vitamin A, IU | Vitamin A, RAE | Vitamin B-12 |
+   Vitamin C, total ascorbic acid | Vitamin D | Vitamin D (D2 + D3) | Vitamin D2 (ergocalciferol) |
+   Vitamin D3 (cholecalciferol) | Vitamin K (phylloquinone)
+
+-- 16:0 | 18:0 | 18:1 c | 18:1 undifferentiated | 18:2 n-6 c,c | 18:2 undifferentiated | 18:3 undifferentiated |
+   Choline, total | Fatty acids, total monounsaturated | Fatty acids, total polyunsaturated |
+   Fatty acids, total saturated | Total lipid (fat) | Vitamin E (alpha-tocopherol)
+
+-- Alanine | Arginine | Ash | Aspartic acid | Betaine | Calcium, Ca | Copper, Cu | Cystine | Folate, DFE |
+   Folate, food | Folate, total | Glutamic acid | Glycine | Histidine | Iron, Fe | Isoleucine | Leucine |
+   Lysine | Magnesium, Mg | Manganese, Mn | Methionine | Niacin | Pantothenic acid | Phenylalanine | Phosphorus, P |
+   Potassium, K | Proline | Protein | Riboflavin | Selenium, Se | Serine | Sodium, Na | Thiamin | Threonine |
+   Tryptophan | Tyrosine | Valine | Vitamin B-6 | Water | Zinc, Zn
+
+-- Energy
+
+-- Vitamin B-12, added | Vitamin E, added
+
+-- Caffeine | Theobromine
+
+The network consist of six distinct communities with a modularity of 0.48 where the members of each community
+   share some similarity. The majority of the nutrients with a number name is concentrated in
+   the first community along with different types of vitamins. Another interesting note, is how different types of
+   sugar such as sucrose, maltose, lactose, and starch are within the first community. The second community consists
+   of different types of fatty acids in addition to nutrients with number names. The third community consist mostly
+   of amino acids (alanine, arginine, cystine) and the general chemical elements (calcium, copper, magnesium). The
+   fourth community is the smallest consisting only of one member, energy, which seems to have no association with
+   any other nutrients in the network. The fifth community consist of vitamin-based nutrients, while the sixth
+   communities consist of two members, caffeine and theobromine, which are similar in that they are alkaloids.

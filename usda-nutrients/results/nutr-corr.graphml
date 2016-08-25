@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="undirected">
+    <data key="d0">()</data>
+    <node id="Cholesterol" />
+    <node id="24:1 c" />
+    <node id="Leucine" />
+    <node id="16:0" />
+    <node id="12:0" />
+    <node id="18:2 CLAs" />
+    <node id="Selenium, Se" />
+    <node id="Folic acid" />
+    <node id="18:1 t" />
+    <node id="Threonine" />
+    <node id="15:0" />
+    <node id="Vitamin K (phylloquinone)" />
+    <node id="Beta-sitosterol" />
+    <node id="Aspartic acid" />
+    <node id="20:4 undifferentiated" />
+    <node id="Energy" />
+    <node id="4:0" />
+    <node id="18:3 undifferentiated" />
+    <node id="18:3 n-6 c,c,c" />
+    <node id="22:1 c" />
+    <node id="Thiamin" />
+    <node id="18:4" />
+    <node id="Menaquinone-4" />
+    <node id="Lactose" />
+    <node id="Alanine" />
+    <node id="Glycine" />
+    <node id="20:3 undifferentiated" />
+    <node id="Phytosterols" />
+    <node id="Vitamin D (D2 + D3)" />
+    <node id="Galactose" />
+    <node id="20:1" />
+    <node id="Copper, Cu" />
+    <node id="Riboflavin" />
+    <node id="14:1" />
+    <node id="Proline" />
+    <node id="Tocopherol, gamma" />
+    <node id="Vitamin D3 (cholecalciferol)" />
+    <node id="Glucose (dextrose)" />
+    <node id="Methionine" />
+    <node id="20:0" />
+    <node id="Tocopherol, delta" />
+    <node id="22:0" />
+    <node id="Lysine" />
+    <node id="Niacin" />
+    <node id="Tocopherol, beta" />
+    <node id="Valine" />
+    <node id="Fatty acids, total polyunsaturated" />
+    <node id="6:0" />
+    <node id="22:5 n-3 (DPA)" />
+    <node id="Fatty acids, total monounsaturated" />
+    <node id="17:0" />
+    <node id="Phosphorus, P" />
+    <node id="Histidine" />
+    <node id="18:2 i" />
+    <node id="16:1 t" />
+    <node id="Fiber, total dietary" />
+    <node id="Tryptophan" />
+    <node id="Glutamic acid" />
+    <node id="20:2 n-6 c,c" />
+    <node id="Cystine" />
+    <node id="Sodium, Na" />
+    <node id="Dihydrophylloquinone" />
+    <node id="Ash" />
+    <node id="20:4 n-6" />
+    <node id="Caffeine" />
+    <node id="Fructose" />
+    <node id="Fatty acids, total trans-monoenoic" />
+    <node id="Fatty acids, total trans-polyenoic" />
+    <node id="16:1 undifferentiated" />
+    <node id="Lutein + zeaxanthin" />
+    <node id="Serine" />
+    <node id="18:0" />
+    <node id="Calcium, Ca" />
+    <node id="Folate, DFE" />
+    <node id="Iron, Fe" />
+    <node id="Theobromine" />
+    <node id="Betaine" />
+    <node id="18:2 t not further defined" />
+    <node id="Fatty acids, total trans" />
+    <node id="18:3 n-3 c,c,c (ALA)" />
+    <node id="Vitamin E (alpha-tocopherol)" />
+    <node id="13:0" />
+    <node id="Phenylalanine" />
+    <node id="Zinc, Zn" />
+    <node id="Isoleucine" />
+    <node id="Vitamin A, RAE" />
+    <node id="Starch" />
+    <node id="14:0" />
+    <node id="Stigmasterol" />
+    <node id="Potassium, K" />
+    <node id="10:0" />
+    <node id="8:0" />
+    <node id="Carbohydrate, by difference" />
+    <node id="Water" />
+    <node id="Protein" />
+    <node id="Folate, total" />
+    <node id="18:1-11 t (18:1t n-7)" />
+    <node id="Folate, food" />
+    <node id="Vitamin D2 (ergocalciferol)" />
+    <node id="Vitamin B-6" />
+    <node id="Total lipid (fat)" />
+    <node id="22:6 n-3 (DHA)" />
+    <node id="Fatty acids, total saturated" />
+    <node id="Arginine" />
+    <node id="20:3 n-3" />
+    <node id="Carotene, beta" />
+    <node id="21:5" />
+    <node id="Choline, total" />
+    <node id="Maltose" />
+    <node id="18:1 c" />
+    <node id="20:5 n-3 (EPA)" />
+    <node id="Vitamin B-12, added" />
+    <node id="Hydroxyproline" />
+    <node id="Campesterol" />
+    <node id="Sugars, total" />
+    <node id="22:1 undifferentiated" />
+    <node id="Tyrosine" />
+    <node id="18:2 n-6 c,c" />
+    <node id="Vitamin A, IU" />
+    <node id="20:3 n-6" />
+    <node id="Vitamin E, added" />
+    <node id="17:1" />
+    <node id="Manganese, Mn" />
+    <node id="Vitamin D" />
+    <node id="22:4" />
+    <node id="Magnesium, Mg" />
+    <node id="Sucrose" />
+    <node id="22:1 t" />
+    <node id="24:0" />
+    <node id="16:1 c" />
+    <node id="18:2 undifferentiated" />
+    <node id="Retinol" />
+    <node id="15:1" />
+    <node id="18:1 undifferentiated" />
+    <node id="Pantothenic acid" />
+    <node id="Vitamin C, total ascorbic acid" />
+    <node id="18:2 t,t" />
+    <node id="Vitamin B-12" />
+    <edge source="Ash" target="Glycine" />
+    <edge source="Ash" target="Phenylalanine" />
+    <edge source="Ash" target="Zinc, Zn" />
+    <edge source="Ash" target="Isoleucine" />
+    <edge source="Ash" target="Tyrosine" />
+    <edge source="Ash" target="Manganese, Mn" />
+    <edge source="Ash" target="Threonine" />
+    <edge source="Ash" target="Alanine" />
+    <edge source="Ash" target="Tryptophan" />
+    <edge source="Ash" target="Thiamin" />
+    <edge source="Ash" target="Arginine" />
+    <edge source="Ash" target="Proline" />
+    <edge source="Ash" target="Cystine" />
+    <edge source="Ash" target="Potassium, K" />
+    <edge source="Ash" target="Glutamic acid" />
+    <edge source="Ash" target="Aspartic acid" />
+    <edge source="Ash" target="Water" />
+    <edge source="Ash" target="Lysine" />
+    <edge source="Ash" target="Serine" />
+    <edge source="Ash" target="Histidine" />
+    <edge source="Ash" target="Valine" />
+    <edge source="Ash" target="Leucine" />
+    <edge source="Ash" target="Niacin" />
+    <edge source="Ash" target="Phosphorus, P" />
+    <edge source="Ash" target="Methionine" />
+    <edge source="Ash" target="Calcium, Ca" />
+    <edge source="Ash" target="Vitamin B-6" />
+    <edge source="Ash" target="Pantothenic acid" />
+    <edge source="Ash" target="Riboflavin" />
+    <edge source="Ash" target="Sodium, Na" />
+    <edge source="Ash" target="Protein" />
+    <edge source="Ash" target="Copper, Cu" />
+    <edge source="Ash" target="Magnesium, Mg" />
+    <edge source="20:4 n-6" target="15:0" />
+    <edge source="20:4 n-6" target="21:5" />
+    <edge source="20:4 n-6" target="Sucrose" />
+    <edge source="20:4 n-6" target="20:4 undifferentiated" />
+    <edge source="20:4 n-6" target="Maltose" />
+    <edge source="20:4 n-6" target="Tocopherol, delta" />
+    <edge source="20:4 n-6" target="20:5 n-3 (EPA)" />
+    <edge source="20:4 n-6" target="Galactose" />
+    <edge source="20:4 n-6" target="Retinol" />
+    <edge source="Caffeine" target="Theobromine" />
+    <edge source="Sucrose" target="Beta-sitosterol" />
+    <edge source="24:1 c" target="22:1 undifferentiated" />
+    <edge source="24:1 c" target="21:5" />
+    <edge source="22:6 n-3 (DHA)" target="21:5" />
+    <edge source="22:6 n-3 (DHA)" target="22:4" />
+    <edge source="22:6 n-3 (DHA)" target="20:3 undifferentiated" />
+    <edge source="22:6 n-3 (DHA)" target="20:4 undifferentiated" />
+    <edge source="22:6 n-3 (DHA)" target="18:2 t,t" />
+    <edge source="22:6 n-3 (DHA)" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="22:6 n-3 (DHA)" target="20:5 n-3 (EPA)" />
+    <edge source="22:6 n-3 (DHA)" target="20:3 n-6" />
+    <edge source="22:6 n-3 (DHA)" target="22:5 n-3 (DPA)" />
+    <edge source="Fatty acids, total trans-monoenoic" target="20:4 undifferentiated" />
+    <edge source="Fatty acids, total trans-monoenoic" target="18:2 t not further defined" />
+    <edge source="Fatty acids, total trans-monoenoic" target="Cholesterol" />
+    <edge source="Fatty acids, total trans-monoenoic" target="17:0" />
+    <edge source="Fatty acids, total trans-monoenoic" target="18:2 CLAs" />
+    <edge source="Fatty acids, total trans-monoenoic" target="18:1 t" />
+    <edge source="Fatty acids, total trans-monoenoic" target="Fatty acids, total trans" />
+    <edge source="Fatty acids, total trans-monoenoic" target="Hydroxyproline" />
+    <edge source="Fatty acids, total trans-monoenoic" target="Vitamin B-12" />
+    <edge source="Fatty acids, total monounsaturated" target="Fatty acids, total saturated" />
+    <edge source="Fatty acids, total monounsaturated" target="18:3 undifferentiated" />
+    <edge source="Fatty acids, total monounsaturated" target="Fatty acids, total polyunsaturated" />
+    <edge source="Fatty acids, total monounsaturated" target="Choline, total" />
+    <edge source="Fatty acids, total monounsaturated" target="16:0" />
+    <edge source="Fatty acids, total monounsaturated" target="Total lipid (fat)" />
+    <edge source="Fatty acids, total monounsaturated" target="18:2 undifferentiated" />
+    <edge source="Fatty acids, total monounsaturated" target="18:0" />
+    <edge source="Fatty acids, total monounsaturated" target="18:1 undifferentiated" />
+    <edge source="Valine" target="Glycine" />
+    <edge source="Valine" target="Zinc, Zn" />
+    <edge source="Valine" target="Iron, Fe" />
+    <edge source="Valine" target="Folate, total" />
+    <edge source="Valine" target="Phenylalanine" />
+    <edge source="Valine" target="Tyrosine" />
+    <edge source="Valine" target="Threonine" />
+    <edge source="Valine" target="Alanine" />
+    <edge source="Valine" target="Tryptophan" />
+    <edge source="Valine" target="Isoleucine" />
+    <edge source="Valine" target="Thiamin" />
+    <edge source="Valine" target="Magnesium, Mg" />
+    <edge source="Valine" target="Proline" />
+    <edge source="Valine" target="Cystine" />
+    <edge source="Valine" target="Potassium, K" />
+    <edge source="Valine" target="Folate, food" />
+    <edge source="Valine" target="Glutamic acid" />
+    <edge source="Valine" target="Aspartic acid" />
+    <edge source="Valine" target="Water" />
+    <edge source="Valine" target="Lysine" />
+    <edge source="Valine" target="Serine" />
+    <edge source="Valine" target="Histidine" />
+    <edge source="Valine" target="Leucine" />
+    <edge source="Valine" target="Niacin" />
+    <edge source="Valine" target="Phosphorus, P" />
+    <edge source="Valine" target="Methionine" />
+    <edge source="Valine" target="Calcium, Ca" />
+    <edge source="Valine" target="Folate, DFE" />
+    <edge source="Valine" target="Vitamin B-6" />
+    <edge source="Valine" target="Arginine" />
+    <edge source="Valine" target="Copper, Cu" />
+    <edge source="Valine" target="Pantothenic acid" />
+    <edge source="Valine" target="Protein" />
+    <edge source="Valine" target="Sodium, Na" />
+    <edge source="Valine" target="Selenium, Se" />
+    <edge source="Valine" target="Riboflavin" />
+    <edge source="16:1 undifferentiated" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="16:1 undifferentiated" target="14:0" />
+    <edge source="16:1 undifferentiated" target="16:1 c" />
+    <edge source="16:1 undifferentiated" target="18:0" />
+    <edge source="16:1 undifferentiated" target="Fatty acids, total trans" />
+    <edge source="16:1 undifferentiated" target="18:2 i" />
+    <edge source="16:1 undifferentiated" target="17:0" />
+    <edge source="Hydroxyproline" target="Fatty acids, total trans" />
+    <edge source="Hydroxyproline" target="Vitamin B-12" />
+    <edge source="Hydroxyproline" target="Folic acid" />
+    <edge source="Hydroxyproline" target="Phytosterols" />
+    <edge source="Hydroxyproline" target="Fiber, total dietary" />
+    <edge source="Hydroxyproline" target="Carotene, beta" />
+    <edge source="Hydroxyproline" target="Sugars, total" />
+    <edge source="Hydroxyproline" target="Vitamin D" />
+    <edge source="Hydroxyproline" target="Campesterol" />
+    <edge source="Hydroxyproline" target="20:4 undifferentiated" />
+    <edge source="Hydroxyproline" target="Cholesterol" />
+    <edge source="Hydroxyproline" target="22:4" />
+    <edge source="Hydroxyproline" target="18:1 t" />
+    <edge source="Hydroxyproline" target="Beta-sitosterol" />
+    <edge source="Hydroxyproline" target="Menaquinone-4" />
+    <edge source="Hydroxyproline" target="Lutein + zeaxanthin" />
+    <edge source="Hydroxyproline" target="20:3 n-6" />
+    <edge source="Hydroxyproline" target="Stigmasterol" />
+    <edge source="Arginine" target="Glycine" />
+    <edge source="Arginine" target="Zinc, Zn" />
+    <edge source="Arginine" target="Iron, Fe" />
+    <edge source="Arginine" target="Folate, total" />
+    <edge source="Arginine" target="Phenylalanine" />
+    <edge source="Arginine" target="Tyrosine" />
+    <edge source="Arginine" target="Threonine" />
+    <edge source="Arginine" target="Alanine" />
+    <edge source="Arginine" target="Tryptophan" />
+    <edge source="Arginine" target="Isoleucine" />
+    <edge source="Arginine" target="Thiamin" />
+    <edge source="Arginine" target="Magnesium, Mg" />
+    <edge source="Arginine" target="Proline" />
+    <edge source="Arginine" target="Cystine" />
+    <edge source="Arginine" target="Potassium, K" />
+    <edge source="Arginine" target="Folate, food" />
+    <edge source="Arginine" target="Glutamic acid" />
+    <edge source="Arginine" target="Aspartic acid" />
+    <edge source="Arginine" target="Water" />
+    <edge source="Arginine" target="Lysine" />
+    <edge source="Arginine" target="Serine" />
+    <edge source="Arginine" target="Histidine" />
+    <edge source="Arginine" target="Leucine" />
+    <edge source="Arginine" target="Niacin" />
+    <edge source="Arginine" target="Phosphorus, P" />
+    <edge source="Arginine" target="Methionine" />
+    <edge source="Arginine" target="Calcium, Ca" />
+    <edge source="Arginine" target="Folate, DFE" />
+    <edge source="Arginine" target="Vitamin B-6" />
+    <edge source="Arginine" target="Copper, Cu" />
+    <edge source="Arginine" target="Pantothenic acid" />
+    <edge source="Arginine" target="Protein" />
+    <edge source="Arginine" target="Sodium, Na" />
+    <edge source="Arginine" target="Selenium, Se" />
+    <edge source="Arginine" target="Riboflavin" />
+    <edge source="Proline" target="Glycine" />
+    <edge source="Proline" target="Zinc, Zn" />
+    <edge source="Proline" target="Iron, Fe" />
+    <edge source="Proline" target="Phenylalanine" />
+    <edge source="Proline" target="Threonine" />
+    <edge source="Proline" target="Cystine" />
+    <edge source="Proline" target="Copper, Cu" />
+    <edge source="Proline" target="Tryptophan" />
+    <edge source="Proline" target="Isoleucine" />
+    <edge source="Proline" target="Thiamin" />
+    <edge source="Proline" target="Folate, total" />
+    <edge source="Proline" target="Phosphorus, P" />
+    <edge source="Proline" target="Magnesium, Mg" />
+    <edge source="Proline" target="Potassium, K" />
+    <edge source="Proline" target="Folate, food" />
+    <edge source="Proline" target="Glutamic acid" />
+    <edge source="Proline" target="Aspartic acid" />
+    <edge source="Proline" target="Water" />
+    <edge source="Proline" target="Lysine" />
+    <edge source="Proline" target="Serine" />
+    <edge source="Proline" target="Sodium, Na" />
+    <edge source="Proline" target="Selenium, Se" />
+    <edge source="Proline" target="Niacin" />
+    <edge source="Proline" target="Tyrosine" />
+    <edge source="Proline" target="Methionine" />
+    <edge source="Proline" target="Calcium, Ca" />
+    <edge source="Proline" target="Folate, DFE" />
+    <edge source="Proline" target="Vitamin B-6" />
+    <edge source="Proline" target="Pantothenic acid" />
+    <edge source="Proline" target="Riboflavin" />
+    <edge source="Proline" target="Histidine" />
+    <edge source="Proline" target="Protein" />
+    <edge source="Proline" target="Alanine" />
+    <edge source="Proline" target="Leucine" />
+    <edge source="16:0" target="Fatty acids, total saturated" />
+    <edge source="16:0" target="18:3 undifferentiated" />
+    <edge source="16:0" target="Fatty acids, total polyunsaturated" />
+    <edge source="16:0" target="Choline, total" />
+    <edge source="16:0" target="18:0" />
+    <edge source="16:0" target="Total lipid (fat)" />
+    <edge source="16:0" target="Vitamin E (alpha-tocopherol)" />
+    <edge source="16:0" target="18:2 undifferentiated" />
+    <edge source="16:0" target="18:1 undifferentiated" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:2 n-6 c,c" />
+    <edge source="Fatty acids, total polyunsaturated" target="Fatty acids, total saturated" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:3 undifferentiated" />
+    <edge source="Fatty acids, total polyunsaturated" target="Choline, total" />
+    <edge source="Fatty acids, total polyunsaturated" target="Total lipid (fat)" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:1 c" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:2 undifferentiated" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:0" />
+    <edge source="Fatty acids, total polyunsaturated" target="18:1 undifferentiated" />
+    <edge source="Methionine" target="Glycine" />
+    <edge source="Methionine" target="Zinc, Zn" />
+    <edge source="Methionine" target="Iron, Fe" />
+    <edge source="Methionine" target="Folate, total" />
+    <edge source="Methionine" target="Phenylalanine" />
+    <edge source="Methionine" target="Tyrosine" />
+    <edge source="Methionine" target="Threonine" />
+    <edge source="Methionine" target="Alanine" />
+    <edge source="Methionine" target="Tryptophan" />
+    <edge source="Methionine" target="Isoleucine" />
+    <edge source="Methionine" target="Thiamin" />
+    <edge source="Methionine" target="Magnesium, Mg" />
+    <edge source="Methionine" target="Cystine" />
+    <edge source="Methionine" target="Potassium, K" />
+    <edge source="Methionine" target="Folate, food" />
+    <edge source="Methionine" target="Glutamic acid" />
+    <edge source="Methionine" target="Aspartic acid" />
+    <edge source="Methionine" target="Water" />
+    <edge source="Methionine" target="Lysine" />
+    <edge source="Methionine" target="Serine" />
+    <edge source="Methionine" target="Histidine" />
+    <edge source="Methionine" target="Leucine" />
+    <edge source="Methionine" target="Niacin" />
+    <edge source="Methionine" target="Phosphorus, P" />
+    <edge source="Methionine" target="Calcium, Ca" />
+    <edge source="Methionine" target="Folate, DFE" />
+    <edge source="Methionine" target="Vitamin B-6" />
+    <edge source="Methionine" target="Copper, Cu" />
+    <edge source="Methionine" target="Pantothenic acid" />
+    <edge source="Methionine" target="Protein" />
+    <edge source="Methionine" target="Sodium, Na" />
+    <edge source="Methionine" target="Selenium, Se" />
+    <edge source="Methionine" target="Riboflavin" />
+    <edge source="Fatty acids, total trans" target="Cholesterol" />
+    <edge source="Fatty acids, total trans" target="18:1 t" />
+    <edge source="Fatty acids, total trans" target="Fatty acids, total trans-polyenoic" />
+    <edge source="Fatty acids, total trans" target="22:5 n-3 (DPA)" />
+    <edge source="Fatty acids, total trans" target="Vitamin D" />
+    <edge source="Fatty acids, total trans" target="18:2 t not further defined" />
+    <edge source="Fatty acids, total trans" target="14:0" />
+    <edge source="Fatty acids, total trans" target="20:5 n-3 (EPA)" />
+    <edge source="Fatty acids, total trans" target="10:0" />
+    <edge source="Fatty acids, total trans" target="15:0" />
+    <edge source="Fatty acids, total trans" target="17:0" />
+    <edge source="Fatty acids, total trans" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Fatty acids, total trans" target="Retinol" />
+    <edge source="Fatty acids, total trans" target="20:4 undifferentiated" />
+    <edge source="Fatty acids, total trans" target="20:1" />
+    <edge source="Fatty acids, total trans" target="18:2 CLAs" />
+    <edge source="Fatty acids, total trans" target="Vitamin D (D2 + D3)" />
+    <edge source="Fatty acids, total trans" target="Vitamin B-12" />
+    <edge source="Fatty acids, total trans" target="18:2 i" />
+    <edge source="Folate, DFE" target="Glycine" />
+    <edge source="Folate, DFE" target="Phenylalanine" />
+    <edge source="Folate, DFE" target="Isoleucine" />
+    <edge source="Folate, DFE" target="Tyrosine" />
+    <edge source="Folate, DFE" target="Threonine" />
+    <edge source="Folate, DFE" target="Cystine" />
+    <edge source="Folate, DFE" target="Tryptophan" />
+    <edge source="Folate, DFE" target="Thiamin" />
+    <edge source="Folate, DFE" target="Leucine" />
+    <edge source="Folate, DFE" target="Folate, total" />
+    <edge source="Folate, DFE" target="Folate, food" />
+    <edge source="Folate, DFE" target="Glutamic acid" />
+    <edge source="Folate, DFE" target="Aspartic acid" />
+    <edge source="Folate, DFE" target="Lysine" />
+    <edge source="Folate, DFE" target="Serine" />
+    <edge source="Folate, DFE" target="Niacin" />
+    <edge source="Folate, DFE" target="Phosphorus, P" />
+    <edge source="Folate, DFE" target="Riboflavin" />
+    <edge source="Folate, DFE" target="Vitamin B-6" />
+    <edge source="Folate, DFE" target="Pantothenic acid" />
+    <edge source="Folate, DFE" target="Protein" />
+    <edge source="Folate, DFE" target="Histidine" />
+    <edge source="Folate, DFE" target="Alanine" />
+    <edge source="Folate, DFE" target="Magnesium, Mg" />
+    <edge source="Serine" target="Glycine" />
+    <edge source="Serine" target="Zinc, Zn" />
+    <edge source="Serine" target="Iron, Fe" />
+    <edge source="Serine" target="Phenylalanine" />
+    <edge source="Serine" target="Threonine" />
+    <edge source="Serine" target="Cystine" />
+    <edge source="Serine" target="Copper, Cu" />
+    <edge source="Serine" target="Tryptophan" />
+    <edge source="Serine" target="Isoleucine" />
+    <edge source="Serine" target="Thiamin" />
+    <edge source="Serine" target="Folate, total" />
+    <edge source="Serine" target="Phosphorus, P" />
+    <edge source="Serine" target="Magnesium, Mg" />
+    <edge source="Serine" target="Potassium, K" />
+    <edge source="Serine" target="Folate, food" />
+    <edge source="Serine" target="Glutamic acid" />
+    <edge source="Serine" target="Aspartic acid" />
+    <edge source="Serine" target="Water" />
+    <edge source="Serine" target="Lysine" />
+    <edge source="Serine" target="Sodium, Na" />
+    <edge source="Serine" target="Selenium, Se" />
+    <edge source="Serine" target="Niacin" />
+    <edge source="Serine" target="Tyrosine" />
+    <edge source="Serine" target="Calcium, Ca" />
+    <edge source="Serine" target="Vitamin B-6" />
+    <edge source="Serine" target="Pantothenic acid" />
+    <edge source="Serine" target="Riboflavin" />
+    <edge source="Serine" target="Histidine" />
+    <edge source="Serine" target="Protein" />
+    <edge source="Serine" target="Alanine" />
+    <edge source="Serine" target="Leucine" />
+    <edge source="Vitamin D3 (cholecalciferol)" target="Menaquinone-4" />
+    <edge source="Vitamin D3 (cholecalciferol)" target="Vitamin D (D2 + D3)" />
+    <edge source="Vitamin D3 (cholecalciferol)" target="Campesterol" />
+    <edge source="Vitamin D3 (cholecalciferol)" target="Vitamin D" />
+    <edge source="18:0" target="Fatty acids, total saturated" />
+    <edge source="18:0" target="18:3 undifferentiated" />
+    <edge source="18:0" target="14:0" />
+    <edge source="18:0" target="Total lipid (fat)" />
+    <edge source="18:0" target="18:2 undifferentiated" />
+    <edge source="18:0" target="18:1 undifferentiated" />
+    <edge source="Carotene, beta" target="Vitamin A, IU" />
+    <edge source="Carotene, beta" target="Carbohydrate, by difference" />
+    <edge source="Carotene, beta" target="Fiber, total dietary" />
+    <edge source="Carotene, beta" target="Vitamin C, total ascorbic acid" />
+    <edge source="Carotene, beta" target="Sugars, total" />
+    <edge source="Carotene, beta" target="Lutein + zeaxanthin" />
+    <edge source="12:0" target="10:0" />
+    <edge source="12:0" target="15:0" />
+    <edge source="12:0" target="14:0" />
+    <edge source="Glucose (dextrose)" target="21:5" />
+    <edge source="Glucose (dextrose)" target="Sugars, total" />
+    <edge source="Glucose (dextrose)" target="Fructose" />
+    <edge source="Calcium, Ca" target="Glycine" />
+    <edge source="Calcium, Ca" target="Zinc, Zn" />
+    <edge source="Calcium, Ca" target="Iron, Fe" />
+    <edge source="Calcium, Ca" target="Phenylalanine" />
+    <edge source="Calcium, Ca" target="Tyrosine" />
+    <edge source="Calcium, Ca" target="Betaine" />
+    <edge source="Calcium, Ca" target="Cystine" />
+    <edge source="Calcium, Ca" target="Tryptophan" />
+    <edge source="Calcium, Ca" target="Isoleucine" />
+    <edge source="Calcium, Ca" target="Thiamin" />
+    <edge source="Calcium, Ca" target="Potassium, K" />
+    <edge source="Calcium, Ca" target="Glutamic acid" />
+    <edge source="Calcium, Ca" target="Aspartic acid" />
+    <edge source="Calcium, Ca" target="Water" />
+    <edge source="Calcium, Ca" target="Lysine" />
+    <edge source="Calcium, Ca" target="Leucine" />
+    <edge source="Calcium, Ca" target="Threonine" />
+    <edge source="Calcium, Ca" target="Niacin" />
+    <edge source="Calcium, Ca" target="Phosphorus, P" />
+    <edge source="Calcium, Ca" target="Copper, Cu" />
+    <edge source="Calcium, Ca" target="Pantothenic acid" />
+    <edge source="Calcium, Ca" target="Riboflavin" />
+    <edge source="Calcium, Ca" target="Histidine" />
+    <edge source="Calcium, Ca" target="Protein" />
+    <edge source="Calcium, Ca" target="Alanine" />
+    <edge source="Calcium, Ca" target="Magnesium, Mg" />
+    <edge source="21:5" target="20:3 undifferentiated" />
+    <edge source="21:5" target="20:2 n-6 c,c" />
+    <edge source="21:5" target="Fiber, total dietary" />
+    <edge source="21:5" target="18:4" />
+    <edge source="21:5" target="Sugars, total" />
+    <edge source="21:5" target="Starch" />
+    <edge source="21:5" target="Carbohydrate, by difference" />
+    <edge source="21:5" target="22:5 n-3 (DPA)" />
+    <edge source="21:5" target="20:5 n-3 (EPA)" />
+    <edge source="21:5" target="22:4" />
+    <edge source="18:2 CLAs" target="20:4 undifferentiated" />
+    <edge source="18:2 CLAs" target="18:2 t not further defined" />
+    <edge source="18:2 CLAs" target="16:1 t" />
+    <edge source="18:2 CLAs" target="17:0" />
+    <edge source="18:2 CLAs" target="18:1 t" />
+    <edge source="Choline, total" target="Fatty acids, total saturated" />
+    <edge source="Choline, total" target="Total lipid (fat)" />
+    <edge source="Choline, total" target="Vitamin E (alpha-tocopherol)" />
+    <edge source="Choline, total" target="Riboflavin" />
+    <edge source="Choline, total" target="18:2 undifferentiated" />
+    <edge source="Choline, total" target="Vitamin B-6" />
+    <edge source="Choline, total" target="18:1 undifferentiated" />
+    <edge source="Selenium, Se" target="Glycine" />
+    <edge source="Selenium, Se" target="Phenylalanine" />
+    <edge source="Selenium, Se" target="Zinc, Zn" />
+    <edge source="Selenium, Se" target="Isoleucine" />
+    <edge source="Selenium, Se" target="Tyrosine" />
+    <edge source="Selenium, Se" target="Threonine" />
+    <edge source="Selenium, Se" target="Cystine" />
+    <edge source="Selenium, Se" target="Copper, Cu" />
+    <edge source="Selenium, Se" target="Tryptophan" />
+    <edge source="Selenium, Se" target="Thiamin" />
+    <edge source="Selenium, Se" target="Leucine" />
+    <edge source="Selenium, Se" target="Glutamic acid" />
+    <edge source="Selenium, Se" target="Aspartic acid" />
+    <edge source="Selenium, Se" target="Lysine" />
+    <edge source="Selenium, Se" target="Niacin" />
+    <edge source="Selenium, Se" target="Phosphorus, P" />
+    <edge source="Selenium, Se" target="Vitamin B-6" />
+    <edge source="Selenium, Se" target="Pantothenic acid" />
+    <edge source="Selenium, Se" target="Riboflavin" />
+    <edge source="Selenium, Se" target="Histidine" />
+    <edge source="Selenium, Se" target="Protein" />
+    <edge source="Selenium, Se" target="Alanine" />
+    <edge source="Selenium, Se" target="Magnesium, Mg" />
+    <edge source="20:0" target="18:2 t not further defined" />
+    <edge source="20:0" target="22:0" />
+    <edge source="20:0" target="17:0" />
+    <edge source="20:0" target="18:2 i" />
+    <edge source="Iron, Fe" target="Glycine" />
+    <edge source="Iron, Fe" target="Phenylalanine" />
+    <edge source="Iron, Fe" target="Zinc, Zn" />
+    <edge source="Iron, Fe" target="Isoleucine" />
+    <edge source="Iron, Fe" target="Tyrosine" />
+    <edge source="Iron, Fe" target="Threonine" />
+    <edge source="Iron, Fe" target="Cystine" />
+    <edge source="Iron, Fe" target="Tryptophan" />
+    <edge source="Iron, Fe" target="Thiamin" />
+    <edge source="Iron, Fe" target="Leucine" />
+    <edge source="Iron, Fe" target="Potassium, K" />
+    <edge source="Iron, Fe" target="Glutamic acid" />
+    <edge source="Iron, Fe" target="Aspartic acid" />
+    <edge source="Iron, Fe" target="Lysine" />
+    <edge source="Iron, Fe" target="Niacin" />
+    <edge source="Iron, Fe" target="Phosphorus, P" />
+    <edge source="Iron, Fe" target="Alanine" />
+    <edge source="Iron, Fe" target="Riboflavin" />
+    <edge source="Iron, Fe" target="Histidine" />
+    <edge source="Iron, Fe" target="Protein" />
+    <edge source="Iron, Fe" target="Copper, Cu" />
+    <edge source="Iron, Fe" target="Magnesium, Mg" />
+    <edge source="18:1 t" target="20:4 undifferentiated" />
+    <edge source="18:1 t" target="18:2 t not further defined" />
+    <edge source="18:1 t" target="Cholesterol" />
+    <edge source="18:1 t" target="17:0" />
+    <edge source="18:1 t" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="18:1 t" target="Vitamin B-12" />
+    <edge source="Tocopherol, delta" target="Stigmasterol" />
+    <edge source="Tocopherol, delta" target="Tocopherol, gamma" />
+    <edge source="Tocopherol, delta" target="Tocopherol, beta" />
+    <edge source="Tocopherol, delta" target="Beta-sitosterol" />
+    <edge source="Aspartic acid" target="Glycine" />
+    <edge source="Aspartic acid" target="Zinc, Zn" />
+    <edge source="Aspartic acid" target="Phenylalanine" />
+    <edge source="Aspartic acid" target="Threonine" />
+    <edge source="Aspartic acid" target="Cystine" />
+    <edge source="Aspartic acid" target="Copper, Cu" />
+    <edge source="Aspartic acid" target="Tryptophan" />
+    <edge source="Aspartic acid" target="Isoleucine" />
+    <edge source="Aspartic acid" target="Thiamin" />
+    <edge source="Aspartic acid" target="Folate, total" />
+    <edge source="Aspartic acid" target="Phosphorus, P" />
+    <edge source="Aspartic acid" target="Magnesium, Mg" />
+    <edge source="Aspartic acid" target="Potassium, K" />
+    <edge source="Aspartic acid" target="Folate, food" />
+    <edge source="Aspartic acid" target="Glutamic acid" />
+    <edge source="Aspartic acid" target="Water" />
+    <edge source="Aspartic acid" target="Lysine" />
+    <edge source="Aspartic acid" target="Sodium, Na" />
+    <edge source="Aspartic acid" target="Niacin" />
+    <edge source="Aspartic acid" target="Tyrosine" />
+    <edge source="Aspartic acid" target="Vitamin B-6" />
+    <edge source="Aspartic acid" target="Pantothenic acid" />
+    <edge source="Aspartic acid" target="Riboflavin" />
+    <edge source="Aspartic acid" target="Histidine" />
+    <edge source="Aspartic acid" target="Protein" />
+    <edge source="Aspartic acid" target="Alanine" />
+    <edge source="Aspartic acid" target="Leucine" />
+    <edge source="Threonine" target="Glycine" />
+    <edge source="Threonine" target="Zinc, Zn" />
+    <edge source="Threonine" target="Folate, total" />
+    <edge source="Threonine" target="Phenylalanine" />
+    <edge source="Threonine" target="Tyrosine" />
+    <edge source="Threonine" target="Alanine" />
+    <edge source="Threonine" target="Tryptophan" />
+    <edge source="Threonine" target="Isoleucine" />
+    <edge source="Threonine" target="Thiamin" />
+    <edge source="Threonine" target="Magnesium, Mg" />
+    <edge source="Threonine" target="Cystine" />
+    <edge source="Threonine" target="Potassium, K" />
+    <edge source="Threonine" target="Folate, food" />
+    <edge source="Threonine" target="Glutamic acid" />
+    <edge source="Threonine" target="Water" />
+    <edge source="Threonine" target="Lysine" />
+    <edge source="Threonine" target="Histidine" />
+    <edge source="Threonine" target="Leucine" />
+    <edge source="Threonine" target="Niacin" />
+    <edge source="Threonine" target="Phosphorus, P" />
+    <edge source="Threonine" target="Vitamin B-6" />
+    <edge source="Threonine" target="Copper, Cu" />
+    <edge source="Threonine" target="Pantothenic acid" />
+    <edge source="Threonine" target="Protein" />
+    <edge source="Threonine" target="Sodium, Na" />
+    <edge source="Threonine" target="Riboflavin" />
+    <edge source="Fatty acids, total trans-polyenoic" target="18:2 t not further defined" />
+    <edge source="Fatty acids, total trans-polyenoic" target="18:2 i" />
+    <edge source="Fatty acids, total trans-polyenoic" target="18:2 t,t" />
+    <edge source="15:0" target="24:0" />
+    <edge source="15:0" target="20:4 undifferentiated" />
+    <edge source="15:0" target="14:1" />
+    <edge source="15:0" target="20:3 undifferentiated" />
+    <edge source="15:0" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="15:0" target="17:1" />
+    <edge source="15:0" target="22:5 n-3 (DPA)" />
+    <edge source="15:0" target="17:0" />
+    <edge source="Vitamin A, IU" target="Vitamin A, RAE" />
+    <edge source="Vitamin A, IU" target="Retinol" />
+    <edge source="Vitamin A, IU" target="18:1-11 t (18:1t n-7)" />
+    <edge source="18:2 t not further defined" target="20:1" />
+    <edge source="18:2 t not further defined" target="17:0" />
+    <edge source="18:2 t not further defined" target="20:2 n-6 c,c" />
+    <edge source="18:2 t not further defined" target="17:1" />
+    <edge source="22:0" target="24:0" />
+    <edge source="22:0" target="18:2 i" />
+    <edge source="Beta-sitosterol" target="18:3 n-3 c,c,c (ALA)" />
+    <edge source="Beta-sitosterol" target="Phytosterols" />
+    <edge source="Beta-sitosterol" target="Tocopherol, gamma" />
+    <edge source="Beta-sitosterol" target="Campesterol" />
+    <edge source="Beta-sitosterol" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Beta-sitosterol" target="Vitamin D" />
+    <edge source="Beta-sitosterol" target="Starch" />
+    <edge source="Beta-sitosterol" target="Vitamin D (D2 + D3)" />
+    <edge source="Beta-sitosterol" target="Stigmasterol" />
+    <edge source="Beta-sitosterol" target="13:0" />
+    <edge source="20:5 n-3 (EPA)" target="22:4" />
+    <edge source="20:5 n-3 (EPA)" target="20:3 undifferentiated" />
+    <edge source="20:5 n-3 (EPA)" target="22:5 n-3 (DPA)" />
+    <edge source="20:5 n-3 (EPA)" target="20:4 undifferentiated" />
+    <edge source="20:5 n-3 (EPA)" target="18:2 t,t" />
+    <edge source="20:5 n-3 (EPA)" target="16:1 t" />
+    <edge source="Lutein + zeaxanthin" target="Fiber, total dietary" />
+    <edge source="Lutein + zeaxanthin" target="Sugars, total" />
+    <edge source="Betaine" target="Protein" />
+    <edge source="Betaine" target="Niacin" />
+    <edge source="Betaine" target="Riboflavin" />
+    <edge source="Lysine" target="Glycine" />
+    <edge source="Lysine" target="Zinc, Zn" />
+    <edge source="Lysine" target="Folate, total" />
+    <edge source="Lysine" target="Phenylalanine" />
+    <edge source="Lysine" target="Tyrosine" />
+    <edge source="Lysine" target="Alanine" />
+    <edge source="Lysine" target="Tryptophan" />
+    <edge source="Lysine" target="Isoleucine" />
+    <edge source="Lysine" target="Thiamin" />
+    <edge source="Lysine" target="Magnesium, Mg" />
+    <edge source="Lysine" target="Cystine" />
+    <edge source="Lysine" target="Potassium, K" />
+    <edge source="Lysine" target="Folate, food" />
+    <edge source="Lysine" target="Glutamic acid" />
+    <edge source="Lysine" target="Water" />
+    <edge source="Lysine" target="Histidine" />
+    <edge source="Lysine" target="Leucine" />
+    <edge source="Lysine" target="Niacin" />
+    <edge source="Lysine" target="Phosphorus, P" />
+    <edge source="Lysine" target="Vitamin B-6" />
+    <edge source="Lysine" target="Copper, Cu" />
+    <edge source="Lysine" target="Pantothenic acid" />
+    <edge source="Lysine" target="Protein" />
+    <edge source="Lysine" target="Sodium, Na" />
+    <edge source="Lysine" target="Riboflavin" />
+    <edge source="18:3 n-3 c,c,c (ALA)" target="Stigmasterol" />
+    <edge source="18:3 n-3 c,c,c (ALA)" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="18:3 n-3 c,c,c (ALA)" target="18:3 undifferentiated" />
+    <edge source="18:3 n-3 c,c,c (ALA)" target="18:2 i" />
+    <edge source="16:1 c" target="17:0" />
+    <edge source="16:1 c" target="18:2 i" />
+    <edge source="18:1 c" target="18:2 n-6 c,c" />
+    <edge source="18:1 c" target="18:2 undifferentiated" />
+    <edge source="Niacin" target="Glycine" />
+    <edge source="Niacin" target="Zinc, Zn" />
+    <edge source="Niacin" target="Folate, total" />
+    <edge source="Niacin" target="Phenylalanine" />
+    <edge source="Niacin" target="Tyrosine" />
+    <edge source="Niacin" target="Manganese, Mn" />
+    <edge source="Niacin" target="Alanine" />
+    <edge source="Niacin" target="Tryptophan" />
+    <edge source="Niacin" target="Isoleucine" />
+    <edge source="Niacin" target="Thiamin" />
+    <edge source="Niacin" target="Magnesium, Mg" />
+    <edge source="Niacin" target="Potassium, K" />
+    <edge source="Niacin" target="Glutamic acid" />
+    <edge source="Niacin" target="Water" />
+    <edge source="Niacin" target="Leucine" />
+    <edge source="Niacin" target="Cystine" />
+    <edge source="Niacin" target="Phosphorus, P" />
+    <edge source="Niacin" target="Vitamin B-6" />
+    <edge source="Niacin" target="Copper, Cu" />
+    <edge source="Niacin" target="Pantothenic acid" />
+    <edge source="Niacin" target="Riboflavin" />
+    <edge source="Niacin" target="Histidine" />
+    <edge source="Niacin" target="Protein" />
+    <edge source="22:1 t" target="18:2 t,t" />
+    <edge source="14:0" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="14:0" target="17:0" />
+    <edge source="20:4 undifferentiated" target="14:1" />
+    <edge source="20:4 undifferentiated" target="Cholesterol" />
+    <edge source="20:4 undifferentiated" target="20:3 undifferentiated" />
+    <edge source="20:4 undifferentiated" target="Sugars, total" />
+    <edge source="20:4 undifferentiated" target="22:5 n-3 (DPA)" />
+    <edge source="20:4 undifferentiated" target="Vitamin D" />
+    <edge source="20:4 undifferentiated" target="22:4" />
+    <edge source="20:4 undifferentiated" target="17:0" />
+    <edge source="20:4 undifferentiated" target="20:2 n-6 c,c" />
+    <edge source="20:4 undifferentiated" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="20:4 undifferentiated" target="20:1" />
+    <edge source="20:4 undifferentiated" target="Menaquinone-4" />
+    <edge source="20:4 undifferentiated" target="Vitamin B-12" />
+    <edge source="Fatty acids, total saturated" target="18:3 undifferentiated" />
+    <edge source="Fatty acids, total saturated" target="Total lipid (fat)" />
+    <edge source="Fatty acids, total saturated" target="18:2 undifferentiated" />
+    <edge source="Fatty acids, total saturated" target="18:1 undifferentiated" />
+    <edge source="18:2 i" target="17:0" />
+    <edge source="18:2 i" target="18:3 undifferentiated" />
+    <edge source="Vitamin E (alpha-tocopherol)" target="18:1 undifferentiated" />
+    <edge source="Vitamin E (alpha-tocopherol)" target="18:2 undifferentiated" />
+    <edge source="13:0" target="15:1" />
+    <edge source="13:0" target="22:4" />
+    <edge source="13:0" target="18:3 n-6 c,c,c" />
+    <edge source="13:0" target="20:3 n-3" />
+    <edge source="13:0" target="Campesterol" />
+    <edge source="13:0" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="13:0" target="20:3 undifferentiated" />
+    <edge source="Leucine" target="Glycine" />
+    <edge source="Leucine" target="Zinc, Zn" />
+    <edge source="Leucine" target="Folate, total" />
+    <edge source="Leucine" target="Phenylalanine" />
+    <edge source="Leucine" target="Tyrosine" />
+    <edge source="Leucine" target="Alanine" />
+    <edge source="Leucine" target="Tryptophan" />
+    <edge source="Leucine" target="Isoleucine" />
+    <edge source="Leucine" target="Thiamin" />
+    <edge source="Leucine" target="Magnesium, Mg" />
+    <edge source="Leucine" target="Cystine" />
+    <edge source="Leucine" target="Potassium, K" />
+    <edge source="Leucine" target="Folate, food" />
+    <edge source="Leucine" target="Glutamic acid" />
+    <edge source="Leucine" target="Water" />
+    <edge source="Leucine" target="Histidine" />
+    <edge source="Leucine" target="Phosphorus, P" />
+    <edge source="Leucine" target="Vitamin B-6" />
+    <edge source="Leucine" target="Copper, Cu" />
+    <edge source="Leucine" target="Pantothenic acid" />
+    <edge source="Leucine" target="Protein" />
+    <edge source="Leucine" target="Sodium, Na" />
+    <edge source="Leucine" target="Riboflavin" />
+    <edge source="Energy" target="Energy" />
+    <edge source="Phenylalanine" target="Glycine" />
+    <edge source="Phenylalanine" target="Zinc, Zn" />
+    <edge source="Phenylalanine" target="Folate, total" />
+    <edge source="Phenylalanine" target="Tyrosine" />
+    <edge source="Phenylalanine" target="Alanine" />
+    <edge source="Phenylalanine" target="Tryptophan" />
+    <edge source="Phenylalanine" target="Isoleucine" />
+    <edge source="Phenylalanine" target="Thiamin" />
+    <edge source="Phenylalanine" target="Magnesium, Mg" />
+    <edge source="Phenylalanine" target="Cystine" />
+    <edge source="Phenylalanine" target="Potassium, K" />
+    <edge source="Phenylalanine" target="Folate, food" />
+    <edge source="Phenylalanine" target="Glutamic acid" />
+    <edge source="Phenylalanine" target="Water" />
+    <edge source="Phenylalanine" target="Histidine" />
+    <edge source="Phenylalanine" target="Phosphorus, P" />
+    <edge source="Phenylalanine" target="Vitamin B-6" />
+    <edge source="Phenylalanine" target="Copper, Cu" />
+    <edge source="Phenylalanine" target="Pantothenic acid" />
+    <edge source="Phenylalanine" target="Protein" />
+    <edge source="Phenylalanine" target="Sodium, Na" />
+    <edge source="Phenylalanine" target="Riboflavin" />
+    <edge source="Zinc, Zn" target="Glycine" />
+    <edge source="Zinc, Zn" target="Tyrosine" />
+    <edge source="Zinc, Zn" target="Manganese, Mn" />
+    <edge source="Zinc, Zn" target="Cystine" />
+    <edge source="Zinc, Zn" target="Tryptophan" />
+    <edge source="Zinc, Zn" target="Isoleucine" />
+    <edge source="Zinc, Zn" target="Thiamin" />
+    <edge source="Zinc, Zn" target="Magnesium, Mg" />
+    <edge source="Zinc, Zn" target="Alanine" />
+    <edge source="Zinc, Zn" target="Potassium, K" />
+    <edge source="Zinc, Zn" target="Glutamic acid" />
+    <edge source="Zinc, Zn" target="Water" />
+    <edge source="Zinc, Zn" target="Phosphorus, P" />
+    <edge source="Zinc, Zn" target="Vitamin B-6" />
+    <edge source="Zinc, Zn" target="Pantothenic acid" />
+    <edge source="Zinc, Zn" target="Protein" />
+    <edge source="Zinc, Zn" target="Histidine" />
+    <edge source="Zinc, Zn" target="Copper, Cu" />
+    <edge source="Zinc, Zn" target="Riboflavin" />
+    <edge source="Isoleucine" target="Glycine" />
+    <edge source="Isoleucine" target="Folate, total" />
+    <edge source="Isoleucine" target="Tyrosine" />
+    <edge source="Isoleucine" target="Alanine" />
+    <edge source="Isoleucine" target="Tryptophan" />
+    <edge source="Isoleucine" target="Thiamin" />
+    <edge source="Isoleucine" target="Magnesium, Mg" />
+    <edge source="Isoleucine" target="Cystine" />
+    <edge source="Isoleucine" target="Potassium, K" />
+    <edge source="Isoleucine" target="Folate, food" />
+    <edge source="Isoleucine" target="Glutamic acid" />
+    <edge source="Isoleucine" target="Water" />
+    <edge source="Isoleucine" target="Histidine" />
+    <edge source="Isoleucine" target="Phosphorus, P" />
+    <edge source="Isoleucine" target="Vitamin B-6" />
+    <edge source="Isoleucine" target="Copper, Cu" />
+    <edge source="Isoleucine" target="Pantothenic acid" />
+    <edge source="Isoleucine" target="Protein" />
+    <edge source="Isoleucine" target="Sodium, Na" />
+    <edge source="Isoleucine" target="Riboflavin" />
+    <edge source="18:3 undifferentiated" target="Total lipid (fat)" />
+    <edge source="18:3 undifferentiated" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="18:3 undifferentiated" target="18:2 undifferentiated" />
+    <edge source="18:3 undifferentiated" target="18:1 undifferentiated" />
+    <edge source="18:3 n-6 c,c,c" target="17:1" />
+    <edge source="18:3 n-6 c,c,c" target="24:0" />
+    <edge source="Campesterol" target="Lactose" />
+    <edge source="Campesterol" target="15:1" />
+    <edge source="Campesterol" target="4:0" />
+    <edge source="Campesterol" target="Phytosterols" />
+    <edge source="Campesterol" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Campesterol" target="6:0" />
+    <edge source="Campesterol" target="Retinol" />
+    <edge source="Sugars, total" target="Carbohydrate, by difference" />
+    <edge source="Sugars, total" target="Fiber, total dietary" />
+    <edge source="4:0" target="Lactose" />
+    <edge source="4:0" target="6:0" />
+    <edge source="4:0" target="8:0" />
+    <edge source="22:1 c" target="22:1 undifferentiated" />
+    <edge source="22:1 c" target="17:1" />
+    <edge source="22:5 n-3 (DPA)" target="14:1" />
+    <edge source="22:5 n-3 (DPA)" target="Cholesterol" />
+    <edge source="22:5 n-3 (DPA)" target="20:3 undifferentiated" />
+    <edge source="22:5 n-3 (DPA)" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="22:5 n-3 (DPA)" target="16:1 t" />
+    <edge source="22:5 n-3 (DPA)" target="Vitamin D" />
+    <edge source="22:5 n-3 (DPA)" target="22:4" />
+    <edge source="22:5 n-3 (DPA)" target="18:2 t,t" />
+    <edge source="22:5 n-3 (DPA)" target="20:3 n-6" />
+    <edge source="Vitamin A, RAE" target="18:1-11 t (18:1t n-7)" />
+    <edge source="Vitamin A, RAE" target="Retinol" />
+    <edge source="Vitamin A, RAE" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="20:3 n-3" target="Phytosterols" />
+    <edge source="20:3 n-3" target="20:3 undifferentiated" />
+    <edge source="16:1 t" target="14:1" />
+    <edge source="16:1 t" target="Cholesterol" />
+    <edge source="16:1 t" target="20:3 undifferentiated" />
+    <edge source="16:1 t" target="Vitamin D" />
+    <edge source="16:1 t" target="22:4" />
+    <edge source="16:1 t" target="Retinol" />
+    <edge source="16:1 t" target="Menaquinone-4" />
+    <edge source="16:1 t" target="Vitamin B-12" />
+    <edge source="16:1 t" target="20:3 n-6" />
+    <edge source="Thiamin" target="Glycine" />
+    <edge source="Thiamin" target="Folate, total" />
+    <edge source="Thiamin" target="Tyrosine" />
+    <edge source="Thiamin" target="Alanine" />
+    <edge source="Thiamin" target="Tryptophan" />
+    <edge source="Thiamin" target="Cystine" />
+    <edge source="Thiamin" target="Potassium, K" />
+    <edge source="Thiamin" target="Folate, food" />
+    <edge source="Thiamin" target="Glutamic acid" />
+    <edge source="Thiamin" target="Phosphorus, P" />
+    <edge source="Thiamin" target="Vitamin B-6" />
+    <edge source="Thiamin" target="Copper, Cu" />
+    <edge source="Thiamin" target="Pantothenic acid" />
+    <edge source="Thiamin" target="Riboflavin" />
+    <edge source="Thiamin" target="Histidine" />
+    <edge source="Thiamin" target="Protein" />
+    <edge source="Thiamin" target="Magnesium, Mg" />
+    <edge source="Retinol" target="Vitamin D" />
+    <edge source="Retinol" target="Vitamin D (D2 + D3)" />
+    <edge source="Retinol" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Retinol" target="Vitamin B-12" />
+    <edge source="Retinol" target="Cholesterol" />
+    <edge source="Retinol" target="18:1-11 t (18:1t n-7)" />
+    <edge source="Retinol" target="20:3 n-6" />
+    <edge source="Stigmasterol" target="Tocopherol, gamma" />
+    <edge source="Stigmasterol" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Stigmasterol" target="Vitamin D" />
+    <edge source="6:0" target="8:0" />
+    <edge source="6:0" target="Lactose" />
+    <edge source="Potassium, K" target="Glycine" />
+    <edge source="Potassium, K" target="Tyrosine" />
+    <edge source="Potassium, K" target="Manganese, Mn" />
+    <edge source="Potassium, K" target="Cystine" />
+    <edge source="Potassium, K" target="Tryptophan" />
+    <edge source="Potassium, K" target="Alanine" />
+    <edge source="Potassium, K" target="Glutamic acid" />
+    <edge source="Potassium, K" target="Water" />
+    <edge source="Potassium, K" target="Sodium, Na" />
+    <edge source="Potassium, K" target="Phosphorus, P" />
+    <edge source="Potassium, K" target="Vitamin B-6" />
+    <edge source="Potassium, K" target="Pantothenic acid" />
+    <edge source="Potassium, K" target="Riboflavin" />
+    <edge source="Potassium, K" target="Histidine" />
+    <edge source="Potassium, K" target="Protein" />
+    <edge source="Potassium, K" target="Copper, Cu" />
+    <edge source="Potassium, K" target="Magnesium, Mg" />
+    <edge source="Cholesterol" target="14:1" />
+    <edge source="Cholesterol" target="17:0" />
+    <edge source="Cholesterol" target="Phytosterols" />
+    <edge source="Cholesterol" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Cholesterol" target="Vitamin D" />
+    <edge source="Cholesterol" target="22:4" />
+    <edge source="Cholesterol" target="Vitamin D (D2 + D3)" />
+    <edge source="Cholesterol" target="Menaquinone-4" />
+    <edge source="Cholesterol" target="Vitamin B-12" />
+    <edge source="Cholesterol" target="20:3 n-6" />
+    <edge source="17:0" target="14:1" />
+    <edge source="17:0" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="17:0" target="20:1" />
+    <edge source="8:0" target="10:0" />
+    <edge source="8:0" target="Lactose" />
+    <edge source="Vitamin B-12, added" target="Vitamin E, added" />
+    <edge source="18:4" target="22:1 undifferentiated" />
+    <edge source="18:2 n-6 c,c" target="18:2 undifferentiated" />
+    <edge source="Phosphorus, P" target="Glycine" />
+    <edge source="Phosphorus, P" target="Manganese, Mn" />
+    <edge source="Phosphorus, P" target="Cystine" />
+    <edge source="Phosphorus, P" target="Copper, Cu" />
+    <edge source="Phosphorus, P" target="Tryptophan" />
+    <edge source="Phosphorus, P" target="Folate, total" />
+    <edge source="Phosphorus, P" target="Magnesium, Mg" />
+    <edge source="Phosphorus, P" target="Glutamic acid" />
+    <edge source="Phosphorus, P" target="Water" />
+    <edge source="Phosphorus, P" target="Tyrosine" />
+    <edge source="Phosphorus, P" target="Vitamin B-6" />
+    <edge source="Phosphorus, P" target="Pantothenic acid" />
+    <edge source="Phosphorus, P" target="Riboflavin" />
+    <edge source="Phosphorus, P" target="Histidine" />
+    <edge source="Phosphorus, P" target="Protein" />
+    <edge source="Phosphorus, P" target="Alanine" />
+    <edge source="20:1" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Carbohydrate, by difference" target="Fiber, total dietary" />
+    <edge source="Vitamin D (D2 + D3)" target="Menaquinone-4" />
+    <edge source="Vitamin D (D2 + D3)" target="Phytosterols" />
+    <edge source="Vitamin D (D2 + D3)" target="Fiber, total dietary" />
+    <edge source="Vitamin D (D2 + D3)" target="Vitamin B-12" />
+    <edge source="Vitamin D (D2 + D3)" target="Vitamin D" />
+    <edge source="Menaquinone-4" target="22:4" />
+    <edge source="Menaquinone-4" target="Phytosterols" />
+    <edge source="Menaquinone-4" target="Vitamin B-12" />
+    <edge source="Menaquinone-4" target="20:3 n-6" />
+    <edge source="Menaquinone-4" target="Vitamin D" />
+    <edge source="Water" target="Glycine" />
+    <edge source="Water" target="Tyrosine" />
+    <edge source="Water" target="Cystine" />
+    <edge source="Water" target="Tryptophan" />
+    <edge source="Water" target="Glutamic acid" />
+    <edge source="Water" target="Histidine" />
+    <edge source="Water" target="Riboflavin" />
+    <edge source="Water" target="Alanine" />
+    <edge source="Water" target="Pantothenic acid" />
+    <edge source="Water" target="Protein" />
+    <edge source="Water" target="Sodium, Na" />
+    <edge source="Water" target="Copper, Cu" />
+    <edge source="Water" target="Magnesium, Mg" />
+    <edge source="Histidine" target="Glycine" />
+    <edge source="Histidine" target="Cystine" />
+    <edge source="Histidine" target="Copper, Cu" />
+    <edge source="Histidine" target="Tryptophan" />
+    <edge source="Histidine" target="Folate, total" />
+    <edge source="Histidine" target="Magnesium, Mg" />
+    <edge source="Histidine" target="Folate, food" />
+    <edge source="Histidine" target="Glutamic acid" />
+    <edge source="Histidine" target="Tyrosine" />
+    <edge source="Histidine" target="Vitamin B-6" />
+    <edge source="Histidine" target="Pantothenic acid" />
+    <edge source="Histidine" target="Riboflavin" />
+    <edge source="Histidine" target="Sodium, Na" />
+    <edge source="Histidine" target="Protein" />
+    <edge source="Histidine" target="Alanine" />
+    <edge source="20:3 n-6" target="14:1" />
+    <edge source="20:3 n-6" target="20:3 undifferentiated" />
+    <edge source="20:3 n-6" target="Vitamin D" />
+    <edge source="20:3 n-6" target="22:4" />
+    <edge source="20:3 n-6" target="Vitamin B-12" />
+    <edge source="Alanine" target="Glycine" />
+    <edge source="Alanine" target="Cystine" />
+    <edge source="Alanine" target="Tryptophan" />
+    <edge source="Alanine" target="Folate, total" />
+    <edge source="Alanine" target="Magnesium, Mg" />
+    <edge source="Alanine" target="Folate, food" />
+    <edge source="Alanine" target="Glutamic acid" />
+    <edge source="Alanine" target="Sodium, Na" />
+    <edge source="Alanine" target="Tyrosine" />
+    <edge source="Alanine" target="Vitamin B-6" />
+    <edge source="Alanine" target="Pantothenic acid" />
+    <edge source="Alanine" target="Riboflavin" />
+    <edge source="Alanine" target="Protein" />
+    <edge source="Alanine" target="Copper, Cu" />
+    <edge source="Protein" target="Glycine" />
+    <edge source="Protein" target="Tyrosine" />
+    <edge source="Protein" target="Tryptophan" />
+    <edge source="Protein" target="Magnesium, Mg" />
+    <edge source="Protein" target="Folate, total" />
+    <edge source="Protein" target="Cystine" />
+    <edge source="Protein" target="Glutamic acid" />
+    <edge source="Protein" target="Copper, Cu" />
+    <edge source="Protein" target="Pantothenic acid" />
+    <edge source="Protein" target="Riboflavin" />
+    <edge source="Protein" target="Vitamin B-6" />
+    <edge source="Glycine" target="Cystine" />
+    <edge source="Glycine" target="Copper, Cu" />
+    <edge source="Glycine" target="Tryptophan" />
+    <edge source="Glycine" target="Folate, total" />
+    <edge source="Glycine" target="Magnesium, Mg" />
+    <edge source="Glycine" target="Folate, food" />
+    <edge source="Glycine" target="Glutamic acid" />
+    <edge source="Glycine" target="Sodium, Na" />
+    <edge source="Glycine" target="Tyrosine" />
+    <edge source="Glycine" target="Vitamin B-6" />
+    <edge source="Glycine" target="Pantothenic acid" />
+    <edge source="Glycine" target="Riboflavin" />
+    <edge source="20:3 undifferentiated" target="14:1" />
+    <edge source="20:3 undifferentiated" target="22:4" />
+    <edge source="20:3 undifferentiated" target="20:2 n-6 c,c" />
+    <edge source="20:3 undifferentiated" target="Vitamin D" />
+    <edge source="Phytosterols" target="Vitamin B-12" />
+    <edge source="Phytosterols" target="Vitamin D" />
+    <edge source="Fiber, total dietary" target="Vitamin B-12" />
+    <edge source="Fiber, total dietary" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Fiber, total dietary" target="Vitamin D" />
+    <edge source="17:1" target="24:0" />
+    <edge source="Manganese, Mn" target="Magnesium, Mg" />
+    <edge source="Manganese, Mn" target="Copper, Cu" />
+    <edge source="14:1" target="22:4" />
+    <edge source="14:1" target="Vitamin D" />
+    <edge source="Vitamin D" target="22:4" />
+    <edge source="Vitamin D" target="Vitamin B-12" />
+    <edge source="Tryptophan" target="Folate, total" />
+    <edge source="Tryptophan" target="Tyrosine" />
+    <edge source="Tryptophan" target="Magnesium, Mg" />
+    <edge source="Tryptophan" target="Cystine" />
+    <edge source="Tryptophan" target="Folate, food" />
+    <edge source="Tryptophan" target="Glutamic acid" />
+    <edge source="Tryptophan" target="Vitamin B-6" />
+    <edge source="Tryptophan" target="Copper, Cu" />
+    <edge source="Tryptophan" target="Pantothenic acid" />
+    <edge source="Tryptophan" target="Sodium, Na" />
+    <edge source="Tryptophan" target="Riboflavin" />
+    <edge source="22:4" target="20:2 n-6 c,c" />
+    <edge source="22:4" target="Vitamin B-12" />
+    <edge source="Magnesium, Mg" target="Cystine" />
+    <edge source="Magnesium, Mg" target="Copper, Cu" />
+    <edge source="Magnesium, Mg" target="Folate, total" />
+    <edge source="Magnesium, Mg" target="Glutamic acid" />
+    <edge source="Magnesium, Mg" target="Tyrosine" />
+    <edge source="Magnesium, Mg" target="Vitamin B-6" />
+    <edge source="Magnesium, Mg" target="Pantothenic acid" />
+    <edge source="Magnesium, Mg" target="Riboflavin" />
+    <edge source="Folate, total" target="Tyrosine" />
+    <edge source="Folate, total" target="Cystine" />
+    <edge source="Folate, total" target="Folate, food" />
+    <edge source="Folate, total" target="Glutamic acid" />
+    <edge source="Folate, total" target="Riboflavin" />
+    <edge source="Folate, total" target="Vitamin B-6" />
+    <edge source="Folate, total" target="Pantothenic acid" />
+    <edge source="Total lipid (fat)" target="18:2 undifferentiated" />
+    <edge source="Total lipid (fat)" target="18:1 undifferentiated" />
+    <edge source="Folate, food" target="Glutamic acid" />
+    <edge source="Folate, food" target="Cystine" />
+    <edge source="Folate, food" target="Tyrosine" />
+    <edge source="Folate, food" target="Vitamin B-6" />
+    <edge source="Folate, food" target="Pantothenic acid" />
+    <edge source="Folate, food" target="Riboflavin" />
+    <edge source="Glutamic acid" target="Cystine" />
+    <edge source="Glutamic acid" target="Copper, Cu" />
+    <edge source="Glutamic acid" target="Sodium, Na" />
+    <edge source="Glutamic acid" target="Tyrosine" />
+    <edge source="Glutamic acid" target="Vitamin B-6" />
+    <edge source="Glutamic acid" target="Pantothenic acid" />
+    <edge source="Glutamic acid" target="Riboflavin" />
+    <edge source="Vitamin K (phylloquinone)" target="Vitamin D2 (ergocalciferol)" />
+    <edge source="Vitamin D2 (ergocalciferol)" target="Tocopherol, gamma" />
+    <edge source="Vitamin D2 (ergocalciferol)" target="Vitamin B-12" />
+    <edge source="Vitamin D2 (ergocalciferol)" target="Dihydrophylloquinone" />
+    <edge source="18:2 undifferentiated" target="18:1 undifferentiated" />
+    <edge source="Cystine" target="Tyrosine" />
+    <edge source="Cystine" target="Vitamin B-6" />
+    <edge source="Cystine" target="Copper, Cu" />
+    <edge source="Cystine" target="Pantothenic acid" />
+    <edge source="Cystine" target="Sodium, Na" />
+    <edge source="Cystine" target="Riboflavin" />
+    <edge source="Tyrosine" target="Vitamin B-6" />
+    <edge source="Tyrosine" target="Copper, Cu" />
+    <edge source="Tyrosine" target="Pantothenic acid" />
+    <edge source="Tyrosine" target="Sodium, Na" />
+    <edge source="Tyrosine" target="Riboflavin" />
+    <edge source="Vitamin B-6" target="Copper, Cu" />
+    <edge source="Vitamin B-6" target="Pantothenic acid" />
+    <edge source="Vitamin B-6" target="Riboflavin" />
+    <edge source="Pantothenic acid" target="Riboflavin" />
+    <edge source="Pantothenic acid" target="Copper, Cu" />
+    <edge source="Copper, Cu" target="Riboflavin" />
+  </graph>
+</graphml>

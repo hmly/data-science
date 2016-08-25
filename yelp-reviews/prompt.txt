@@ -1,0 +1,30 @@
+P2. Text analysis
+Attached Files:
+File reviews.zip (49.992 MB)
+Write a program that shall calculate word sentiment level, based on the user reviews from the
+Yelp academic dataset.
+
+The attached file has 156,602 reviews written by Yelp members (the original dataset has 1,569,265 reviews).
+Each review has a text fragment and a star rating on the scale from 1 (worst) to 5 (best). We assume that
+the words predominantly used in "bad" reviews are "bad" and the words predominantly used in "good" reviews
+are "good." The measure of the sentiment level of a word, therefore, is the average star rating of all
+reviews where the word is used.
+
+Hints:
+Load the JSON data from the file and select a small subset for practicing. (The final run of the program
+shall include all reviews.)
+
+Extract all review texts and star ratings.
+
+Break each review into individual words using NLTK. Filter out stopwords and words that are not in the
+words corpus.
+
+Lemmatize the remaining words.
+
+For each lemma, calculate its average star rating. If a lemma is used in fewer than 10 reviews, discard it.
+
+Save the 500 most negative lemmas and 500 most positive lemmas and their respective sentiment levels into
+a CSV file.
+
+This is a group project. Submit one program and one CSV file per group. Do not submit the original
+data file.
